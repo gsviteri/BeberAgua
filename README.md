@@ -86,6 +86,7 @@ $> sudo ./setup-solr.sh -a -m not2share
 ## Updating SolR Configuration Files ##
 
 Automatic way to updated SolR Configuration files, mainly schema.xml (requires new indexing) and solrconfig.xml
+
 :warning: Execute script as root.
   * You may need to specify a Solr Password used during Solr Installation
   * Replace the default arguments if necessary...
